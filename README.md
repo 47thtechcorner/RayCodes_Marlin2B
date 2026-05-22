@@ -1,3 +1,5 @@
+Codes for my Youtube Video [`The Tiny 2B Vision AI That Watches Videos For You (Marlin-2B + Qwen 3 VL)`](https://youtu.be/xWu_6IFPwtM)
+
 # Auto-Chapter Video Generator
 
 A lightweight, local command-line tool that automatically generates YouTube-compatible video chapters from any YouTube video URL. 
