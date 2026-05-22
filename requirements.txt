@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+accelerate
+qwen-vl-utils
+yt-dlp
+Pillow
+numpy<2.0.0
