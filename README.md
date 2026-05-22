@@ -1,4 +1,4 @@
-Codes for my Youtube Video [`The Tiny 2B Vision AI That Watches Videos For You (Marlin-2B + Qwen 3 VL)`](https://youtu.be/xWu_6IFPwtM)
+Codes for my Youtube Video [`The Tiny 2B Vision AI That Watches Videos For You (Marlin-2B + Qwen 3 VL)`](https://youtu.be/iD1_21c33oU)
 
 # Auto-Chapter Video Generator
 
